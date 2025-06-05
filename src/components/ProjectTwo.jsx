@@ -101,7 +101,7 @@ const ProjectTwo = () => (
       </Description>
 
       <ImageWrapper>
-        <ProjectImage src=".././public/projeto2.png" alt="Simulador de Incêndio com Detecção de Vulneráveis" />
+        <ProjectImage src="/projeto2.png" alt="Simulador de Incêndio com Detecção de Vulneráveis" />
         <Overlay
           className="overlay"
           href="https://github.com/GS-25-1/Prototipo-Aparelho"

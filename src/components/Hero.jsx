@@ -35,7 +35,7 @@ const HeroSubtitle = styled.p`
 const Hero = () => (
   <HeroSection>
     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1 }}>
-      <HeroImage src=".././public/logo.png" alt="Vitalerta Logo" />
+      <HeroImage src="/logo.png" alt="Vitalerta Logo" />
       <HeroSubtitle>Sistema Inteligente de Alerta e Resposta a Queimadas</HeroSubtitle>
     </motion.div>
   </HeroSection>

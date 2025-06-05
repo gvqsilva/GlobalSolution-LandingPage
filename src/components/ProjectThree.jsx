@@ -115,7 +115,7 @@ const ProjectThree = () => (
       </Description>
 
       <ImageWrapper>
-        <ProjectImage src=".././public/projeto3.png" alt="Simulador de Incêndio com Detecção de Vulneráveis" />
+        <ProjectImage src="/projeto3.png" alt="Simulador de Incêndio com Detecção de Vulneráveis" />
         <Overlay
           className="overlay"
           href="https://github.com/GS-25-1/Simulacao-MensagemAlerta"

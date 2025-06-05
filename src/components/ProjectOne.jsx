@@ -101,7 +101,7 @@ const ProjectOne = () => (
       </Description>
 
       <ImageWrapper>
-        <ProjectImage src=".././public/projeto1.png" alt="Simulador de Incêndio" />
+        <ProjectImage src="/projeto1.png" alt="Simulador de Incêndio" />
         <Overlay
           className="overlay"
           href="https://github.com/GS-25-1/Simulacao-FocoQueimada"
